@@ -99,7 +99,7 @@ This project answers a critical business question:
 
 ## 📷 Dashboard Preview
 
-👉 *(Add your Power BI screenshots here)*
+👉 https://github.com/Tausif007-DA/Marketing-Spend-Waste-Detector-python-sql-power-bi/blob/main/Screenshot%202026-03-23%20190917.png
 
 ---
 
